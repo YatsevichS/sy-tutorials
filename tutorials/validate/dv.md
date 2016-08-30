@@ -28,15 +28,6 @@ You can use ~~strikethrough~~ font
 
 [ACCORDION-BEGIN [STEP 3](#1###Ruleregex-substring)]
 
-### Rule
-regex-substring
-
-### Question
-Marina's age?
-
-### Match
-secret
-
 [VALIDATE_4]
 
 [ACCORDION-END] 
@@ -57,17 +48,7 @@ secret
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 5](#1###regex-begins-with)]
-### Rule
-regex-begins-with
 
-### Question
-Enter Marina's surname?
-A. Amosova
-B. Mamosova
-C. GFkjdf
-
-### Match
-A
 
 [VALIDATE_7]
 
@@ -100,28 +81,12 @@ You can create nested lists:
 
 [ACCORDION-BEGIN [STEP 7](#1###regex-with-id-exact-match)]
 
-###Rule
-regex-with-id-exact-match
-
-###Question
-Enter URL to your application //[id] will be changed to uid
-
-###Match
-https://codejam[id]trail.hanatrial.ondemand.com/codejam/mylibrary.xsjs
 
 [VALIDATE_11]
 
 [ACCORDION-END] 
 
 [ACCORDION-BEGIN [STEP 8](#the sпрпр lectitur. Adl nec. Eu p pro disceecond step)]
-### Rule
-regex-begins-with
-
-### Question
-age?
-
-### Match
-se c ret
 
 [VALIDATE_10]
 
