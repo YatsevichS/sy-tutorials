@@ -3,7 +3,7 @@ title: validate
 description: validated
 tags: [tutorial:product/hana_studio]
 ---
-Update suka
+Update suka asdf
 
 
 [ACCORDION-BEGIN [STEP 1](#1Rule exact-match)]
